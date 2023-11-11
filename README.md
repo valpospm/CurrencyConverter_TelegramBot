@@ -1,5 +1,5 @@
-# SF_QAP_CurrencyConverter_TelegramBot
-Практическое задание 23.6.1 (PJ-03) - Написание Telegram-бота - конвертера валют.
+# CurrencyConverter_TelegramBot
+Написание Telegram-бота - конвертера валют.
 Имя бота в Telegram - @CurrExchBot по адресу:
 <a href="https://t.me/CurrExchBot_bot" target="_blank">t.me/CurrExchBot_bot</a>
 
